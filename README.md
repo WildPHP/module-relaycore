@@ -1,4 +1,4 @@
-# Telegram Relay Module
+# Relay core Module
 [![Build Status](https://scrutinizer-ci.com/g/WildPHP/module-relaycore/badges/build.png?b=master)](https://scrutinizer-ci.com/g/WildPHP/module-relaycore/build-status/master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/WildPHP/module-relaycore/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/WildPHP/module-relaycore/?branch=master)
 [![Latest Stable Version](https://poser.pugx.org/wildphp/module-relaycore/v/stable)](https://packagist.org/packages/wildphp/module-relaycore)
